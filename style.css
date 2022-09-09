@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+h1{
+    border: 1px solid grey;
+    display: inline-block;
+    margin-left: 34%;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    padding: 0.2rem 4.5rem;
+    background-color: rgb(253, 30, 134);
+    color: white;
+    border-radius: 4px;
+}
+th, tr, td{
+    padding: 0.9rem 0.6rem;
+    font-size: 1.5rem;
+}
+table{
+    display: flex;
+}
+input, select{
+    padding: 0.3rem;
+    font-size: 1.2rem;
+}
+.cotainer{
+    display: flex;
+    align-items: center;
+}
+.con2{
+    padding: 0.5rem 0.9rem;
+    border: 1px solid grey;
+}
+button{
+    outline: none;
+    padding: 0.4rem 1.5rem;
+    font-size: 1.6rem;
+    font-weight: bolder;
+    border: 1px solid grey;
+    color: white;
+    background-color: rgb(253, 30, 134);
+    text-align: center;
+    margin-top: 2%;
+    cursor: pointer;
+    margin-left: 49%;
+    border-radius: 4px;
+}
